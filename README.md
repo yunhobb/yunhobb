@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jung, Yunho&fontSize=90" />	
+</div>
 
-<!--
-**yunhobb/yunhobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠️ Now I'm learning 🛠️ </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+</p>
+
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=yunhobb&show_icons=true">
+
+<div>
+
+
+
+
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://pouncing-beluga-df8.notion.site/Jung-Yunho-a3c5c3554522401ea8f4c5ce1251d58b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a01049048063@gmail.com)
+[![GitHub](https://img.shields.io/badge/Tech--blog-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://yunhobb.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nuyho_/)
+
