@@ -45,7 +45,7 @@ preREADME = """
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nuyho_/)
 
 
-## Latest Blog Post
+## :books: Latest Blog Post :books:
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
