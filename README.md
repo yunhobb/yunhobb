@@ -1,6 +1,6 @@
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jung,%20%Yunho&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jung, Yunho&fontSize=90" />	
 </div>
 
 <h3 align="center">🛠️ Now I'm learning 🛠️ </h3>
