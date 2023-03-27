@@ -31,7 +31,7 @@
 
 
 ## :books: Latest Blog Post :books:
+ - [3/25 - applicaiton.yml에 옵션들](https://yunhobb.github.io/spring/applicaitonyml/)
  - [2/7 - 2023 겨울 부트캠프 회고](https://yunhobb.github.io/project/2023winterreview/)
  - [2/6 - 2023 겨울 부트캠프 medium](https://yunhobb.github.io/project/2023winter/)
  - [1/2 - Spring Boot Application을 Docker Image로 생성하기](https://yunhobb.github.io/spring/dockerhub/)
- - [12/24 - (int)와 .parseInt차이](https://yunhobb.github.io/Java/basic1/)
