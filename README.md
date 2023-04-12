@@ -31,7 +31,7 @@
 
 
 ## :books: Latest Blog Post :books:
+ - [4/10 - [자바 표준 ORM JPA]3장 영속성 관리](https://yunhobb.github.io/spring/jpa3)
  - [4/3 - 제너릭이란 ?](https://yunhobb.github.io/java/generic)
  - [4/2 - [자바 표준 ORM JPA]1장 JPA 소개](https://yunhobb.github.io/spring/jpa1)
  - [3/25 - applicaiton.yml에 옵션들](https://yunhobb.github.io/spring/applicaitonyml/)
- - [2/7 - 2023 겨울 부트캠프 회고](https://yunhobb.github.io/project/2023winterreview/)
