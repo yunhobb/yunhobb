@@ -31,7 +31,7 @@
 
 
 ## :books: Latest Blog Post :books:
+ - [4/25 - [자바 표준 ORM JPA]5장 연관관계 매핑 기초](https://yunhobb.github.io/spring/jpa5)
  - [4/15 - [자바 표준 ORM JPA]4장 엔티티 매핑](https://yunhobb.github.io/spring/jpa4)
  - [4/10 - [자바 표준 ORM JPA]3장 영속성 관리](https://yunhobb.github.io/spring/jpa3)
  - [4/3 - 제너릭이란 ?](https://yunhobb.github.io/java/generic)
- - [4/2 - [자바 표준 ORM JPA]1장 JPA 소개](https://yunhobb.github.io/spring/jpa1)
