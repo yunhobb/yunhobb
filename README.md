@@ -27,11 +27,11 @@
 [![GitHub](https://img.shields.io/badge/Tech--blog-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://yunhobb.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nuyho_/)
 <br>
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunhobb%2Fhit-counter&count_bg=%23378CA2&title_bg=%23555555&icon=gradle.svg&icon_color=%237DB4C6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunhobb%2Fhit-counter&count_bg=%23378CA2&title_bg=%23555555&icon=gradle.svg&icon_color=%237DB4C6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## :books: Latest Blog Post :books:
+ - [5/3 - [자바 표준 ORM JPA]6장 다양한 연관관계 매핑](https://yunhobb.github.io/spring/jpa6)
+ - [5/3 - [자바 표준 ORM JPA]6장 고급 매핑](https://yunhobb.github.io/spring/jpa7)
  - [4/25 - [자바 표준 ORM JPA]5장 연관관계 매핑 기초](https://yunhobb.github.io/spring/jpa5)
  - [4/15 - [자바 표준 ORM JPA]4장 엔티티 매핑](https://yunhobb.github.io/spring/jpa4)
- - [4/10 - [자바 표준 ORM JPA]3장 영속성 관리](https://yunhobb.github.io/spring/jpa3)
- - [4/3 - 제너릭이란 ?](https://yunhobb.github.io/java/generic)
