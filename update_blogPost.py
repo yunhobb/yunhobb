@@ -44,7 +44,6 @@ preREADME = """
 [![GitHub](https://img.shields.io/badge/Tech--blog-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://yunhobb.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nuyho_/)
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunhobb%2Fhit-counter&count_bg=%23378CA2&title_bg=%23555555&icon=gradle.svg&icon_color=%237DB4C6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## :books: Latest Blog Post :books:
