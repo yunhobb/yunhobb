@@ -33,4 +33,4 @@
  - [5/14 - 정적 펙토리 메소드](https://yunhobb.github.io/java/staticfactorymethod)
  - [5/3 - [자바 표준 ORM JPA]6장 다양한 연관관계 매핑](https://yunhobb.github.io/spring/jpa6)
  - [5/3 - [자바 표준 ORM JPA]7장 고급 매핑](https://yunhobb.github.io/spring/jpa7)
- - [4/25 - [자바 표준 ORM JPA]5장 연관관계 매핑 기초](https://yunhobb.github.io/spring/jpa5)
+ - [5/3 - [자바 표준 ORM JPA]8장 프록시와 연관관계](https://yunhobb.github.io/spring/jpa8)
