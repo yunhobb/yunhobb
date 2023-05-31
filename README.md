@@ -30,7 +30,7 @@
 
 
 ## :books: Latest Blog Post :books:
+ - [5/30 - [자바 표준 ORM JPA]10장 객체지향 쿼리 언어 - 1](https://yunhobb.github.io/spring/jpa9)
  - [5/23 - [자바 표준 ORM JPA]9장 값 타입](https://yunhobb.github.io/spring/jpa9)
  - [5/14 - 정적 펙토리 메소드](https://yunhobb.github.io/java/staticfactorymethod)
  - [5/3 - [자바 표준 ORM JPA]6장 다양한 연관관계 매핑](https://yunhobb.github.io/spring/jpa6)
- - [5/3 - [자바 표준 ORM JPA]7장 고급 매핑](https://yunhobb.github.io/spring/jpa7)
