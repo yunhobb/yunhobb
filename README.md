@@ -30,7 +30,7 @@
 
 
 ## :books: Latest Blog Post :books:
+ - [7/9 - final이 뭐야?](https://yunhobb.github.io/java/final)
  - [6/20 - [자바 표준 ORM JPA]12장 스프링 데이터 JPA](https://yunhobb.github.io/spring/jpa12)
  - [6/6 - [자바 표준 ORM JPA]10장 객체지향 쿼리 언어 - 2](https://yunhobb.github.io/spring/jpa10-1)
  - [5/30 - [자바 표준 ORM JPA]10장 객체지향 쿼리 언어 - 1](https://yunhobb.github.io/spring/jpa9)
- - [5/23 - [자바 표준 ORM JPA]9장 값 타입](https://yunhobb.github.io/spring/jpa9)
