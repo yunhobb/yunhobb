@@ -22,6 +22,8 @@
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a01049048063@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A4%ED%98%B8-%EC%A0%95-6b1824167/)](https://www.linkedin.com/in/%EC%9C%A4%ED%98%B8-%EC%A0%95-6b1824167/)
+  </br></br></br></br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokeong1)](https://solved.ac/chokeong1/)
 
 </div>
 
