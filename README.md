@@ -27,3 +27,8 @@
 
 </div>
 
+**Open Source Contributions**
+
+| Project | PR | Description | 
+|---------|-----|-------------|
+| [Apache Airflow](https://github.com/apache/airflow) | [#63274](https://github.com/apache/airflow/pull/63274) | Add `skip_on_exit_code` support to `EcsRunTaskOperator` |
