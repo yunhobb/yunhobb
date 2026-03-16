@@ -2,10 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=header&text=Yunho%20%Jung&fontSize=50" />
 </div>
 
-<h3 align="center">
+<!-- <h3 align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 	    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
-</h3>
+</h3> -->
 
 <div align=center>
 
