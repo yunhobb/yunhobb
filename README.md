@@ -27,5 +27,6 @@
 | [apache/airflow](https://github.com/apache/airflow) | [#63274](https://github.com/apache/airflow/pull/63274) | Add `skip_on_exit_code` support to EcsRunTaskOperator |
 | [namastack/namastack-outbox](https://github.com/namastack/namastack-outbox) | [#237](https://github.com/namastack/namastack-outbox/pull/237) | Fix handler ID instability with CGLIB proxies |
 | [namastack/namastack-outbox](https://github.com/namastack/namastack-outbox) | [#240](https://github.com/namastack/namastack-outbox/pull/240) | Add legacy alias support for CGLIB proxy handler IDs |
+| [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) | [#5342](https://github.com/spring-projects/spring-batch/pull/5342) | Fix incorrect javadoc references in JobContext |
 
 </div>
