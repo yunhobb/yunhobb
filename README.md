@@ -9,7 +9,6 @@
 
 <div align=center>
 
-<a href="https://velog.io/@yunhobb"><img src="https://velog-readme-stats.vercel.app/api/list?name=yunhobb" /></a>
 <a href="https://solved.ac/chokeong1/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chokeong1" /></a>
 
 </div>
