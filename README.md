@@ -7,11 +7,11 @@
 	    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
 </h3> -->
 
-<div align=center>
+<!-- <div align=center>
 
 <a href="https://solved.ac/chokeong1/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chokeong1" /></a>
 
-</div>
+</div> -->
 
 <div align=center>
 
